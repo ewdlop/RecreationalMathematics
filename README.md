@@ -11,3 +11,11 @@ In addition to the standard 3x3x3 Rubik's Cube, there are other variations with 
 - **7x7x7**: Known as the V-Cube 7.
 
 There are even larger cubes and other variants with different shapes and solving mechanisms, but the 3x3x3 Rubik's Cube is the most widely recognized and commonly used.
+
+#####
+#####
+#####
+#####
+#####
+
+<center>&nbsp;&nbsp;&nbsp;&nbsp;UUU<br>&nbsp;&nbsp;&nbsp;&nbsp;UUU<br>&nbsp;&nbsp;&nbsp;&nbsp;UUU<br>LLL FFF RRR BBB<br>LLL FFF RRR BBB<br>LLL FFF RRR BBB<br>&nbsp;&nbsp;&nbsp;&nbsp;DDD<br>&nbsp;&nbsp;&nbsp;&nbsp;DDD<br>&nbsp;&nbsp;&nbsp;&nbsp;DDD</center>
